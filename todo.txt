@@ -1,0 +1,12 @@
+
+ Neccesary/Important:
+ - Everything todo with a listener quiting
+ - Everything todo with the server stopping
+
+ Optional:
+ - Figure out a way to store messages so user can ask for previously send messages
+   (possibly with an id system `msg#nr1212`)
+ - Add usernames
+ - Way to configure to which server a message is being sent
+ - Encryption
+
